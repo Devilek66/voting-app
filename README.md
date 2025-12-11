@@ -61,7 +61,7 @@ When adding security, it would be natural to:
 - Retrieve the user ID from a **JWT token**.
 
 ### Extending the User Entity
-The current `User` entity is minimal. As the frontend evolves, it might be useful to add more fields needed for displaying user profiles or other frontend requirements.
+The current `Voter` entity is minimal. As the frontend evolves, it might be useful to add more fields needed for displaying user profiles or other frontend requirements.
 
 ### Extending Election Data
 Election entities could also store:
